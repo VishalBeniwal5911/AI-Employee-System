@@ -8,7 +8,7 @@ import Login from "./pages/Login";
 import Register from "./pages/Register";
 import Dashboard from "./pages/Dashboard";
 import Employees from "./pages/Employees";
-import AddEmployee from "./pages/Temp";
+import AddEmployee from "./pages/AddEmployee";
 import AIRecommendations from "./pages/AIRecommendations";
 
 import ProtectedRoute from "./components/ProtectedRoute";
